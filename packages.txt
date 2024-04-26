@@ -1,1 +1,2 @@
 tesseract-ocr
+python3-opencv
